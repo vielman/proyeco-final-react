@@ -1,0 +1,22 @@
+# dependecies
+/node_modules
+/.pro
+.pro.js
+
+# testing
+/coverage
+
+# production
+/dist
+
+# misc
+.DS_Store
+.env.local
+.env.developpment.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
